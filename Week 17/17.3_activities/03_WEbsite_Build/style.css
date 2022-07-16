@@ -1,0 +1,35 @@
+nav{
+    background-color:aqua;
+    height: 144px
+}
+.menu-item{
+    background-color:blue;
+    color: white;
+    display: inline-block;
+    height: 24px;
+    width: 64px;
+    text-align: center;
+    padding: 14px;
+}
+.content{
+    height:500px;
+    background-color: orangered;
+}
+.sidebar{
+    width: 29%;
+    background-color: gray;
+    float:left;
+    height: 500px;
+    text-align: center;
+    padding-top: 24px;
+}
+.details{
+    width: 70%;
+    background-color: aliceblue;
+}
+
+.mainPhoto{
+    width: 250px;
+}
+
+.petName{}
